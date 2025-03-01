@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on James MacPherson</title>
+    <link>http://localhost:1313/tags/programming/</link>
+    <description>Recent content in Programming on James MacPherson</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Feb 2025 11:41:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 28 Feb 2025 11:41:49 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Mood:  Meh / Average&lt;/p&gt;&#xA;&lt;p&gt;Yesterday I contacted my GP and restarted antidepressants.  To be clear I&amp;rsquo;m doing this solely to fulfil a promise - not because I expect any improvement. I promised that I&amp;rsquo;d make a real effort to recover so I&amp;rsquo;m on the drug that several US studies show is best for my particular circumstances.  This blog will serve as a record for me to look back on so that I can, at the very least, look back and accurately evaluate any progress I might make towartds stable mental health.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
