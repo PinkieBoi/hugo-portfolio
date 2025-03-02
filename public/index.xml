@@ -6,8 +6,15 @@
     <description>Recent content on James MacPherson</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Mar 2025 11:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 11:55:21 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sat, 01 Mar 2025 11:55:21 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/PinkieBoi/morse-decoder&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Morse Decoder&lt;/a&gt; - Terminal app for encoding and decoding morse code telegraph messages.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/PinkieBoi/watermarker&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WaterMarker&lt;/a&gt; - GUI app for adding watermarks to images.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/PinkieBoi/tic-tac-toe&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tic Tac Toe&lt;/a&gt; - Play tic-tac-toe in the terminal with a friend.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/PinkieBoi/python-blog-app&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flask Blog&lt;/a&gt; - Flask blog app&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/PinkieBoi/portfolio_site&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flask Portfolio Site&lt;/a&gt; - Portfolio site with Python Flask backend&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Day Two</title>
       <link>http://localhost:1313/posts/day-two/</link>
